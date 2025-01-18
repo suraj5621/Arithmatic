@@ -7,3 +7,8 @@
  - Make feature-add branch from feature branch
  - Inside feature-add branch add functionality in Calculator.txt file
  - In Calculator.txt make function for add
+
+# Task-3
+ - Make feature-sub from feature branch
+ -  Inside feature-sub branch add substract functionality
+
