@@ -12,3 +12,6 @@
  - Make feature-sub from feature branch
  -  Inside feature-sub branch add substract functionality
 
+# Task-4
+ - Make feature-multi branch from feature branch
+ - inside feature-multi branch add multiply functionality
